@@ -1,0 +1,16 @@
+This project is an 3D animation simulates of Solar system.
+Run "make all" to compile this program.
+Then run the executable "./solar" to show the animation details.
+
+Type "leftarrow" and "rightarrow" to translate the camera 5.0 or -5.0 along the x axis;
+Type "downarrow" and "uparrow" to translate the camera 5.0 or -5.0 along the y axis;
+Type "z" and "Z" to translate the camera 5.0 or -5.0 along the z axis;
+Type "r" to reset the view point;
+Type "q" to exit;
+
+Run "make clean" to clean program.
+
+
+NOTE:
+getbmp.h and getbmp.cpp is referenced from experimenter source of textbook, copyright by Sumanta Guha. 
+Texture pictures are download from the internet.
