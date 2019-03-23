@@ -1,4 +1,4 @@
-This project is an 3D animation simulates of Solar system.
+This project is a 3D animation simulates of Solar system.
 Run "make all" to compile this program.
 Then run "./solar" to show the animation details.
 
@@ -11,6 +11,6 @@ Type "q" to exit;
 Run "make clean" to clean program.
 
 
-NOTE:
-getbmp.h and getbmp.cpp is referenced from experimenter source of textbook, copyright by Sumanta Guha. 
-Texture pictures are download from the internet.
+Reference:
+1.getbmp.h and getbmp.cpp is referenced from experimenter source of textbook, copyright by Sumanta Guha. 
+2.Texture pictures are download from the internet.
